@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        ".env": "bat",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "iomanip": "cpp"
+    }
+}
